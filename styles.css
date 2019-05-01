@@ -1,0 +1,26 @@
+body {
+    background: #f18973;
+}
+
+h1 {
+    font-family: 'Wendy One', sans-serif;
+    font-size: 300%;
+}
+
+p {
+    font-family: 'Schoolbell', cursive;
+    font-size: 150%;
+}
+
+input {
+    font-size: 100%;
+}
+
+button {
+    font-size: 200%;
+    font-family: 'Wendy One', sans-serif;
+}
+
+.answer {
+    color: red;
+}
